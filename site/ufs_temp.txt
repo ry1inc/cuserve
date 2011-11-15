@@ -1,0 +1,47 @@
+To: contactus@cuserve.org
+From: [email]
+Subject: UFS General Information Request
+
+SERVICES REQUESTED:
+ 
+College Funding    ([col_fund])
+Estate Planning     ([est_plan])
+Financial Management     ( [fin_mgt])
+Tax Planning     ([tax_plan])
+Insurance     ([insurance])
+Investments     ([investments])
+Retirement Planning     ( [retirement])
+
+
+Anything else?     [anything_else]
+
+====================
+
+CREDIT UNION AFFILIATION:
+
+Belong to a credit union?      [belong_yes]  [belong_no]
+Credit union name:    [belong_which]
+CU location:    [cu_city], [cu_state]
+    
+
+============================ 
+
+CONTACT INFORMATION:
+
+Name:   [name]
+Address:   [address]
+City:   [city]
+State:   [state]
+Zip:   [zip]
+
+e-mail:   [email]
+Day phone:   [phone_day]
+Evening phone:   [phone_eve]
+
+=============================
+
+Age:   [age]
+
+Best time to contact:   [best_time]
+
+Prefer contact by:   [contact_email] [contact_phone]

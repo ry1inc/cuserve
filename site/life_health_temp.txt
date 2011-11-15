@@ -1,0 +1,43 @@
+To: contactus@cuserve.org, test@creativeabandon.com
+From: [email]
+Subject: Life/Health/ADD Information Request
+
+SERVICES REQUESTED:
+ 
+Life Insurance    ([life_insurance])
+Health Insurance     ([health_insurance])
+Accidental Death and Dismemberment Insurance     ( [ADD_ins])
+
+
+Anything else?     [anything_else]
+
+====================
+
+CREDIT UNION AFFILIATION:
+
+Belong to a credit union?      [belong_yes]  [belong_no]
+Credit union name:    [belong_which]
+CU location:    [cu_city], [cu_state]
+    
+
+============================ 
+
+CONTACT INFORMATION:
+
+Name:   [name]
+Address:   [address]
+City:   [city]
+State:   [state]
+Zip:   [zip]
+
+e-mail:   [email]
+Day phone:   [phone_day]
+Evening phone:   [phone_eve]
+
+=============================
+
+Age:   [age]
+
+Best time to contact:   [best_time]
+
+Prefer contact by:   [contact_email] [contact_phone]

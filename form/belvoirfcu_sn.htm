@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Belvoir Financial Services</title>
+<style type="text/css">
+<!--
+.style1 {
+	color: #000000;
+	font-weight: bold;
+}
+-->
+</style>
+
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8"><script type="text/javascript" language="JavaScript1.2">
+function Require(obForm,szFields)
+    {
+      var fields = szFields.split(",")
+      var szMissing= new Array();
+      for (x=0;x<fields.length;x++) {
+        if (obForm.elements[fields[x]].value.length==0) {
+           szMissing[szMissing.length]=new String(fields[x]);
+        }
+      }
+      if (szMissing.length) {
+        alert("The field"+((szMissing.length>1)?"s ":" ")+szMissing.join(",")+" must be filled in.");
+        return false
+      }
+      return true; -IE
+    }
+</script></head>
+
+
+
+<body>
+<img src="Belvoir_Webheader.jpg" width="756" height="150">
+<table width="757" border="4" cellpadding="2" cellspacing="2" bordercolor="#000000">
+  <tr>
+    <td width="739"><div align="center"><span class="style1">  Information </span><span class="style1">Request Form</span> </div></td>
+  </tr>
+  <tr>
+    <td><p><em><br>
+      Please send me more information about the Investment Solutions available at Belvoir Federal Credit Union:</em></p>
+
+      <form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" onSubmit="return Require(this,'first_name,last_name,Home_Phone__c')">
+
+<p>
+  <input type=hidden name="oid" value="00D500000006ySf">
+  <input type=hidden name="retURL" value="http://www.belvoircreditunion.org">
+  <input type="hidden" name="lead_source" id="lead_source" value="SocialNetworking"> 
+  <input type="hidden" name="Credit_Union__c" value='Belvoir Federal Credit Union'>
+  
+  
+  <!--  ----------------------------------------------------------------------  -->
+  <!--  NOTE: These fields are optional debugging elements.  Please uncomment   -->
+  <!--  these lines if you wish to test in debug mode.                          -->
+  <!--  <input type="hidden" name="debug" value=1>                              -->
+  <!--  <input type="hidden" name="debugEmail"                                  -->
+  <!--  value="fskudin@unitrustfinancial.com">                                  -->
+  <!--  ----------------------------------------------------------------------  -->
+</p>
+<table width="618" border="0">
+  <tr>
+    <td width="103" valign="middle"><label for="label3">First Name*</label>
+&nbsp;&nbsp;</td>
+    <td width="189" valign="middle"><label for="first_name"></label>
+      <input  id="first_name" maxlength="40" name="first_name" size="20" type="text" tabindex="1" /></td>
+    <td width="96" valign="middle"><label for="email">Email Address* </label></td>
+    <td width="212" valign="middle"><input  id="email" maxlength="40" name="email" size="20" type="text" tabindex="4" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><label for="last_name">Last Name*</label></td>
+    <td valign="middle"><input  id="last_name" maxlength="40" name="last_name" size="20" type="text" tabindex="2"/></td>
+    <td valign="middle">Cell Phone</td>
+    <td valign="middle"><label for="mobile"></label>
+        <input  id="mobile" maxlength="40" name="mobile" size="20" type="text" tabindex="5" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><label for="Home_Phone__c">Home Phone*</label></td>
+    <td valign="middle"><input  id="Home_Phone__c" maxlength="40" name="Home_Phone__c" size="20" type="text" tabindex="3" /></td>
+    <td valign="middle"><label for="phone">Work Phone</label></td>
+    <td valign="middle"><input  id="phone" maxlength="40" name="phone" size="20" type="text" tabindex="6" /></td>
+  </tr>
+</table>
+<table width="737" border="0">
+  <tr>
+    <td width="603" valign="top"><br>
+      Question / Comment:</td>
+    <td width="124">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><textarea name="Notes_from_Referral_Form__c" cols="60" rows="4" id="Notes_from_Referral_Form__c" tabindex="7"></textarea></td>
+  </tr>
+</table>
+</p>
+<label for="first_name"></label>
+<label for="last_name"></label>
+<div align="center">
+  <input name="submit" type="submit" value="Submit">
+</div>
+</form></td>
+  </tr>
+</table>
+
+
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

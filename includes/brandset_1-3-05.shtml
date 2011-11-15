@@ -1,0 +1,218 @@
+<!--#if expr="$HTTP_HOST = /arlington/" -->
+	<!--#set var="brand" value="arlington" -->
+	<!--#set var="site-main" value="www.arlingtonvafcu.org" -->
+	<!--#set var="sharebuilder" value="arlington" -->
+	<!--#set var="nameshort" value="AVFCU" -->
+	<!--#set var="nameshort-possessive" value="AVFCU's" -->
+	<!--#set var="nameshort-caps" value="AVFCU" -->
+	<!--#set var="nameshort-caps-possessive" value="AVFCU'S" -->
+	<!--#set var="namefull" value="Arlington Virginia Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Arlington Virginia Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="ARLINGTON VIRGINIA FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="ARLINGTON VIRGINIA FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Arlington Virginia Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Arlington Virginia Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="ARLINGTON VIRGINIA FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="ARLINGTON VIRGINIA FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /ftbfcu/" -->
+	<!--#set var="brand" value="ftbfcu" -->
+	<!--#set var="site-main" value="www.ftbfcu.org" -->
+	<!--#set var="sharebuilder" value="ftbfcu" -->
+	<!--#set var="nameshort" value="Fort Belvoir FCU" -->
+	<!--#set var="nameshort-possessive" value="Fort Belvoir FCU's" -->
+	<!--#set var="nameshort-caps" value="FORT BELVOIR FCU" -->
+	<!--#set var="nameshort-caps-possessive" value="FORT BELVOIR FCU'S" -->
+	<!--#set var="namefull" value="Fort Belvoir FCU" -->
+	<!--#set var="namefull-possessive" value="Fort Belvoir FCU's" -->
+	<!--#set var="namefull-caps" value="FORT BELVOIR FCU" -->
+	<!--#set var="namefull-caps-possessive" value="FORT BELVOIR FCU'S" -->
+	<!--#set var="namelegal" value="Fort Belvoir Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Fort Belvoir Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="FORT BELVOIR FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="FORT BELVOIR FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /cofcu/" -->
+	<!--#set var="brand" value="cofcu" -->
+	<!--#set var="site-main" value="www.cofcu.org" -->
+	<!--#set var="sharebuilder" value="cofcu" -->
+	<!--#set var="nameshort" value="CommonWealth One" -->
+	<!--#set var="nameshort-possessive" value="CommonWealth One's" -->
+	<!--#set var="nameshort-caps" value="COMMONWEALTH ONE" -->
+	<!--#set var="nameshort-caps-possessive" value="COMMONWEALTH ONE'S" -->
+	<!--#set var="namefull" value="CommonWealth One FCU" -->
+	<!--#set var="namefull-possessive" value="CommonWealth One FCU's" -->
+	<!--#set var="namefull-caps" value="COMMONWEALTH ONE FCU" -->
+	<!--#set var="namefull-caps-possessive" value="COMMONWEALTH ONE FCU'S" -->
+	<!--#set var="namelegal" value="CommonWealth One Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="CommonWealth One Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="COMMONWEALTH ONE FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="COMMONWEALTH ONE FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /congressional/" -->
+	<!--#set var="brand" value="congressional" -->
+	<!--#set var="site-main" value="www.congressionalfcu.org" -->
+	<!--#set var="sharebuilder" value="congressional" -->
+	<!--#set var="nameshort" value="Congressional" -->
+	<!--#set var="nameshort-possessive" value="Congressional's" -->
+	<!--#set var="nameshort-caps" value="CONGRESSIONAL" -->
+	<!--#set var="nameshort-caps-possessive" value="CONGRESSIONAL'S" -->
+	<!--#set var="namefull" value="Congressional Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Congressional Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="CONGRESSIONAL FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="CONGRESSIONAL FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Wright Patman Congressional Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Wright Patman Congressional Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="WRIGHT PATMAN CONGRESSIONAL FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="WRIGHT PATMAN CONGRESSIONAL FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /dvafcu/" -->
+	<!--#set var="brand" value="dvafcu" -->
+	<!--#set var="site-main" value="www.va.gov/dvafcu/" -->
+	<!--#set var="sharebuilder" value="dvafcu" -->
+	<!--#set var="nameshort" value="DVAFCU" -->
+	<!--#set var="nameshort-possessive" value="DVAFCU's" -->
+	<!--#set var="nameshort-caps" value="DVAFCU" -->
+	<!--#set var="nameshort-caps-possessive" value="DVAFCU'S" -->
+	<!--#set var="namefull" value="Department of Veterans Affairs Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Department of Veterans Affairs Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="DEPARTMENT OF VETERANS AFFAIRS FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="DEPARTMENT OF VETERANS AFFAIRS FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Department of Veterans Affairs Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Department of Veterans Affairs Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="DEPARTMENT OF VETERANS AFFAIRS FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="DEPARTMENT OF VETERANS AFFAIRS FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /fairfax/" -->
+	<!--#set var="brand" value="fairfax" -->
+	<!--#set var="site-main" value="www.fairfaxcu.org" -->
+	<!--#set var="sharebuilder" value="fairfax" -->
+	<!--#set var="nameshort" value="FCFCU" -->
+	<!--#set var="nameshort-possessive" value="FCFCU's" -->
+	<!--#set var="nameshort-caps" value="FCFCU" -->
+	<!--#set var="nameshort-caps-possessive" value="FCFCU'S" -->
+	<!--#set var="namefull" value="Fairfax County Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Fairfax County Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="FAIRFAX COUNTY FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="FAIRFAX COUNTY FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Fairfax County Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Fairfax County Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="FAIRFAX COUNTY FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="FAIRFAX COUNTY FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /genesis/" -->
+	<!--#set var="brand" value="genesis" -->
+	<!--#set var="site-main" value="www.gfcu.org" --><!--#set var="sharebuilder" value="genesis" -->
+	<!--#set var="nameshort" value="Genesis" -->
+	<!--#set var="nameshort-possessive" value="Genesis'" -->
+	<!--#set var="nameshort-caps" value="GENESIS" -->
+	<!--#set var="nameshort-caps-possessive" value="GENESIS'" -->
+	<!--#set var="namefull" value="Genesis Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Genesis Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="GENESIS FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="GENESIS FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Genesis Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Genesis Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="GENESIS FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="GENESIS FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /labor/" -->
+	<!--#set var="brand" value="labor" -->
+	<!--#set var="sharebuilder" value="labor" -->
+	<!--#set var="nameshort" value="DOLFCU" -->
+	<!--#set var="nameshort-possessive" value="DOLFCU's" -->
+	<!--#set var="nameshort-caps" value=" " -->
+	<!--#set var="nameshort-caps-possessive" value="DOLFCU'S" -->
+	<!--#set var="namefull" value="Department of Labor Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Department of Labor Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="DEPARTMENT OF LABOR FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="DEPARTMENT OF LABOR FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Department of Labor Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Department of Labor Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="DEPARTMENT OF LABOR FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="DEPARTMENT OF LABOR FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /transportation/" -->
+	<!--#set var="brand" value="transportation" -->
+	<!--#set var="site-main" value="www.transfcu.com" --><!--#set var="sharebuilder" value="transportation" -->
+	<!--#set var="nameshort" value="TFCU" -->
+	<!--#set var="nameshort-possessive" value="TFCU's" -->
+	<!--#set var="nameshort-caps" value="TFCU" -->
+	<!--#set var="nameshort-caps-possessive" value="TFCU'S" -->
+	<!--#set var="namefull" value="Transportation Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="Transportation Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="TRANSPORTATION FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="TRANSPORTATION FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="Transportation Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="Transportation Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="TRANSPORTATION FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="TRANSPORTATION FEDERAL CREDIT UNION'S" -->
+
+<!--#elif expr="$HTTP_HOST = /hewfcu/" -->
+	<!--#set var="brand" value="hewfcu" -->
+	<!--#set var="site-main" value="www.hewfcu.org" -->
+	<!--#set var="sharebuilder" value="HEWFCU" -->
+	<!--#set var="nameshort" value="HEWFCU" -->
+	<!--#set var="nameshort-possessive" value="HEWFCU's" -->
+	<!--#set var="nameshort-caps" value="HEWFCU" -->
+	<!--#set var="nameshort-caps-possessive" value="HEWFCU'S" -->
+	<!--#set var="namefull" value="HEW Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="HEW Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="HEW FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="HEW FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="HEW Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="HEW Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="HEW FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="HEW FEDERAL CREDIT UNION'S" -->
+	
+<!--#elif expr="$HTTP_HOST = /sdfcu/" -->
+	<!--#set var="brand" value="sdfcu" -->
+	<!--#set var="site-main" value="www.sdfcu.org" -->
+	<!--#set var="sharebuilder" value="SDFCU" -->
+	<!--#set var="nameshort" value="State Department Federal Credit Union" -->
+	<!--#set var="nameshort-possessive" value="State Department Federal Credit Union's" -->
+	<!--#set var="nameshort-caps" value="STATE DEPARTMENT FEDERAL CREDIT UNION" -->
+	<!--#set var="nameshort-caps-possessive" value="STATE DEPARTMENT FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namefull" value="State Department Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="State Department Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="STATE DEPARTMENT FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="STATE DEPARTMENT FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="State Department Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="State Department Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="STATE DEPARTMENT FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="STATE DEPARTMENT FEDERAL CREDIT UNION'S" -->
+		
+<!--#elif expr="$HTTP_HOST = /ussfcu/" -->
+	<!--#set var="brand" value="ussfcu" -->
+	<!--#set var="site-main" value="www.ussfcu.org" -->
+	<!--#set var="sharebuilder" value="USSFCU" -->
+	<!--#set var="nameshort" value="US Senate FCU" -->
+	<!--#set var="nameshort-possessive" value="US Senate FCU's" -->
+	<!--#set var="nameshort-caps" value="US SENATE FCU" -->
+	<!--#set var="nameshort-caps-possessive" value="US SENATE FCU'S" -->
+	<!--#set var="namefull" value="US Senate Federal Credit Union" -->
+	<!--#set var="namefull-possessive" value="US Senate Federal Credit Union's" -->
+	<!--#set var="namefull-caps" value="US SENATE FEDERAL CREDIT UNION" -->
+	<!--#set var="namefull-caps-possessive" value="US SENATE FEDERAL CREDIT UNION'S" -->
+	<!--#set var="namelegal" value="United States Senate Federal Credit Union" -->
+	<!--#set var="namelegal-possessive" value="United States Senate Federal Credit Union's" -->
+	<!--#set var="namelegal-caps" value="UNITED STATES SENATE FEDERAL CREDIT UNION" -->
+	<!--#set var="namelegal-caps-possessive" value="UNITED STATES SENATE FEDERAL CREDIT UNION'S" -->
+	
+
+<!--#else -->
+	<!--#set var="brand" value="default" -->
+	<!--#set var="sharebuilder" value="default" -->
+	<!--#set var="nameshort" value="UniTrust" -->
+	<!--#set var="nameshort-possessive" value="UniTrust's" -->
+	<!--#set var="nameshort-caps" value="UNITRUST" -->
+	<!--#set var="nameshort-caps-possessive" value="UNITRUST'S" -->
+	<!--#set var="namefull" value="UniTrust Financial Services" -->
+	<!--#set var="namefull-possessive" value="UniTrust Financial Services'" -->
+	<!--#set var="namefull-caps" value="UNITRUST FINANCIAL SERVICES" -->
+	<!--#set var="namefull-caps-possessive" value="UNITRUST FINANCIAL SERVICES'" -->
+	<!--#set var="namelegal" value="UniTrust Financial Services, LLC" -->
+	<!--#set var="namelegal-possessive" value="UniTrust Financial Services, LLC's" -->
+	<!--#set var="namelegal-caps" value="UNITRUST FINANCIAL SERVICES, LLC" -->
+	<!--#set var="namelegal-caps-possessive" value="UNITRUST FINANCIAL SERVICES, LLC'S" -->
+<!--#endif -->

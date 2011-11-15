@@ -1,0 +1,40 @@
+To: seminarquestions@sdfcu.org
+From: [email]
+Subject: SDFCU Seminar Registration Request
+
+CONTACT INFORMATION:
+
+Name:   [name]
+Address:   [address]
+City:   [city]
+State:   [state]
+Zip:   [zip]
+
+e-mail:   [email]
+Day phone:   [phone_day]
+Evening phone:   [phone_eve]
+
+=============================
+
+SERVICES REQUESTED:
+ 
+College Funding    ([col_fund])
+Estate Planning     ([est_plan])
+Financial Management     ([fin_mgt])
+Tax Planning     ([tax_plan])
+Insurance     ([insurance])
+Investments     ([investments])
+Retirement Planning     ([retirement])
+
+Request contact by financial rep?  ([request_contact_group])
+
+Comments?     [anything_else]
+
+====================
+
+
+Seminar Date Requested: [seminar_date]
+Credit Union: [belong_which]
+
+    
+

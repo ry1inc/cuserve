@@ -1,0 +1,43 @@
+To: referrals@unitrustfinancial.com
+From: [employee_email]
+Subject: Member Referral from Credit Union Staff
+
+CONTACT INFORMATION:
+
+Name:   [name]
+Address:   [address]
+City:   [city]
+State:   [state]
+Zip:   [zip]
+
+e-mail:   [email]
+Day phone:   [phone_day]
+Evening phone:   [phone_eve]
+
+=============================
+
+SERVICES REQUESTED:
+ 
+College Funding    ([col_fund])
+Estate Planning     ([est_plan])
+Financial Management     ([fin_mgt])
+Tax Planning     ([tax_plan])
+Insurance     ([insurance])
+Investments     ([investments])
+Retirement Planning     ([retirement])
+
+
+Comments?     [anything_else]
+
+====================
+
+CREDIT UNION AFFILIATION:
+
+Credit union name:    [belong_which]
+CU location:    [cu_city], [cu_state]
+
+Credit Union Employee Name: [cu_employee]
+Employee e-mail: [employee_email]
+
+    
+

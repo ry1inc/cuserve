@@ -1,0 +1,306 @@
+<!--#include virtual="/includes/brandset.shtml" -->
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>| Seminars</title>
+		<script language="JavaScript"><!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+// -->
+		</script>
+	</head>
+
+	<body bgcolor="white" "text="#000000" link="blue" alink="red" vlink="red" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('graphics_nav_site/nav_philosophy_on.gif','graphics_nav_site/nav_promise_on.gif','graphics_nav_site/nav_services_on.gif','graphics_nav_site/nav_lifestages_on.gif','graphics_nav_site/nav_contact_on.gif','graphics_nav_site/nav_about_on.gif')">
+		<a name="toc"></a><font size="2" face="Arial,Verdana,Helvetica,sans-serif">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td valign="top" colspan="7"><a href="index.html"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><img src="graphics_nav_site/<!--#echo var="brand"-->/nav_title.gif" height="62" width="506" alt="<!--#echo var="namefull"-->" border="0"></font></a></td>
+				<td valign="bottom"><a href="clients.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('top-clients','','graphics_home_nav/clientsonly_on.gif',1)"><img src="graphics_home_nav/clientsonly_off.gif" height="13" width="79" alt="Clients Only" border="0" name="top-clients"></a><br>
+					<br>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><a href="about.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','graphics_home_nav/aboutus_on.gif',1)"><img src="graphics_nav_site/nav_about_off.gif" height="20" width="77" alt="About Us" border="0" name="about"></a></td>
+				<td valign="top"><a href="philosophy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('philosophy','','graphics_home_nav/philosophy_on.gif',1)"><img src="graphics_nav_site/nav_philosophy_off.gif" height="20" width="93" alt="Our Philosophy" border="0" name="philosophy"></a></td>
+				<td valign="top"><a href="promise.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('promise','','graphics_home_nav/promise_on.gif',1)"><img src="graphics_nav_site/nav_promise_off.gif" height="20" width="77" alt="Our Promise" border="0" name="promise"></a></td>
+				<td valign="top"><a href="services.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('services','','graphics_home_nav/services_on.gif',1)"><img src="graphics_nav_site/nav_services_off.gif" height="20" width="56" alt="Our Services" border="0" name="services"></a></td>
+				<td valign="top"><a href="lifestages.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('lifestages','','graphics_home_nav/lifestages_on.gif',1)"><img src="graphics_nav_site/nav_lifestages_off.gif" height="20" width="70" alt="Life Stages" border="0" name="lifestages"></a></td>
+				<td valign="top"><a href="resources.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','graphics_home_nav/resources_on.gif',1)"><img src="graphics_nav_site/nav_resources_off.gif" height="20" width="65" alt="Resources" border="0" name="resources"></a></td>
+				<td valign="top"><a href="contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','graphics_home_nav/contact_on.gif',1)"><img src="graphics_nav_site/nav_contact_off.gif" height="20" width="68" alt="Contact Us" border="0" name="contact"></a></td>
+				<td valign="top"><img src="graphics_nav_site/nav_block.gif" height="20" width="207" alt="[img block]"></td>
+			</tr>
+			<tr>
+				<td valign="top" colspan="8"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><img src="graphics_news/seminar_image.gif" height="75" width="400" alt="Invest"></font></td>
+			</tr>
+		</table>
+		<br>
+		<table border="0" width="600" cellpadding="3" cellspacing="0">
+			<tr>
+					<td width="20" height="3335" valign="top">&nbsp;</td>
+					<td valign="top"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><img height="17" width="400" src="graphics_news/knowledge_power.gif"><br>
+							
+					At <!--#echo var="namefull"-->, we are committed to educating our members about financial matters so they can make more informed choices about managing their money and creating financial security for themselves and their families. Through educational seminars provided throughout the year, we offer the answers to many of the questions members ask regarding a variety of personal finance topics.<br>
+							<br>
+						These seminars are designed to be educational and offer a no obligation avenue for you to learn more about how to better provide for your financial security. Our network of  financial representatives made available from Financial Network Investment Corporation, member SIPC, provide information you can depend on at every stage of your life.<br>
+					</font>
+					<ul>
+							<li type="disc"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><b>Getting Started</b>: It's never too late to begin mapping out your financial plan.<br>
+								</font>
+							<li type="disc"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><b>Achieving Your Goals</b>: Car. Home. College. Retirement. These are just some of the common financial goals you might set for yourself.<br>
+								</font>
+							<li type="disc"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><b>Life Events</b>: You just never know what will happen. Plan ahead so you'll be prepared for those unexpected life events.<br>
+							</font>
+					  <li type="disc"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><b>Preserving Your Wealth</b>: You've worked hard for your money. Learn how to maintain control, even in retirement or after your death.<br>
+						  </font>
+					  </ul>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Here is a list of upcoming seminars: </font></p>
+						<p>&nbsp; </p>
+						<!--#if expr="$HTTP_HOST = /arlington/" -->
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently
+						    have no seminars scheduled. Please check back, though!<br>
+                        </font></p>
+					  <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">						</font><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+				      </font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif"><br>
+							</font></p>
+						<!--#elif expr="$HTTP_HOST = /cofcu/" -->						
+						<p><strong><font size="3" face="Arial,Verdana,Helvetica,sans-serif">November Seminars: </font></strong></p>
+						<table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="128" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="80"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="115"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td height="69" scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Turbulent Times: Financial Strategies for Succcess</font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">November 28 </font></div></td>
+                            <td><div align="center">
+                              <p><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:30pm - 1:30pm</font></font></p>
+                              <p><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><em>lunch will be served </em></font></font></p>
+                            </div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Univesity Services Building<br>
+                              Room 102<br>
+                              (Behind Kyger Funeral Home) </font></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Turbulent Times: Financial Strategies for Succcess</font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">November 28</font></div></td>
+                            <td><p><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">7:00pm - 8:00pm </font></font></p>
+                            <p align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><em>light refreshments will be served </em></font></font></p></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Harrisonburg Regional </font></div></td>
+                          </tr>
+                        </table>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+					    </font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+								<a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br>
+						        <font size="2" face="Arial,Verdana,Helvetica,sans-serif"><font size="3" face="Arial,Verdana,Helvetica,sans-serif">
+						        <!--#elif expr="$HTTP_HOST = /congressional/" -->
+				                </font></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif">						</font></font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently have no seminars scheduled. Please check back, though!<br>
+					  </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+							  <a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br>
+					  </font></p>
+					  <!--#elif expr="$HTTP_HOST = /fairfax/" -->						
+						<p> <font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently have no seminars scheduled. Please check back, though!<br>
+						</font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+								<a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif"><br>
+							</font></p>
+						<!--#elif expr="$HTTP_HOST = /ftbfcu/" -->
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently have no seminars scheduled. Please check back, though!</font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif"><br>
+							</font></p>
+						<!--#elif expr="$HTTP_HOST = /vantria/" -->
+						
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently have no seminars scheduled. Please check back, though!<br>
+					  </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif">							</font></p>
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+								<a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif"><br>
+							</font><!--#elif expr="$HTTP_HOST = /hewfcu/" --></p>
+						
+						<p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently
+						    have no seminars scheduled. Please check back, though!<br>
+                        </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif"> </font></p>
+						<p><br>
+						</p>
+					  <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br><!--#elif expr="$HTTP_HOST = /lcfcu/" --></p>
+					  <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">We currently have no seminars scheduled. Please check back, though!<br>
+					  </font></p>
+					  <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br>
+
+					    </font></p>
+						<p>
+						  <!--#elif expr="$HTTP_HOST = /sdfcu/" -->						
+						</p>
+						<p>                          <strong><font size="3" face="Arial,Verdana,Helvetica,sans-serif">November Seminars: </font></strong></p>
+	                    <table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="112" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="88"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="123"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Advanced Investment Principles </font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">November 7 </font></div></td>
+                            <td><div align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:00pm</font></font></div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">State Department<br>
+  2201 C Street, NW<font size="2"><font size="2"><br>
+  </font></font> Washington, DC<br>
+  <strong>Room 1207 </strong> <br>
+                            </font></font></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Long Term Care<br>
+Insurance</font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">November 14</font></div></td>
+                            <td><div align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:00pm</font></font></div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">State Department<br>
+        2201 C Street, NW<font size="2"><font size="2"><br>
+        </font></font> Washington, DC<br>
+        <strong>Room 1406</strong> <br>
+                            </font></font></div></td>
+                          </tr>
+                        </table>
+	                    <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+	                    </font><strong><font size="3" face="Arial,Verdana,Helvetica,sans-serif">December Seminars: </font></strong></p>
+	                    <table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="112" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="88"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="123"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Long Term Care<br>
+        Insurance</font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">December 6 </font></div></td>
+                            <td><div align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:00pm</font></font></div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">State Department<br>
+        2201 C Street, NW<font size="2"><font size="2"><br>
+        </font></font> Washington, DC<br>
+        <strong>Room 1205 </strong> <br>
+                            </font></font></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Mutual Funds:<br>
+  Are you on the right track? </font></div></td>
+                            <td><div align="center"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">December 12 </font></div></td>
+                            <td><div align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:00pm</font></font></div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">State Department<br>
+  2201 C Street, NW<font size="2"><font size="2"><br>
+  </font></font> Washington, DC<br>
+  <strong>Room 1105</strong></font></font></div></td>
+                          </tr>
+                        </table>
+	                    <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br>
+                        </font></p>
+	                    <!--#elif expr="$HTTP_HOST = /transportation/" -->
+                        <p><strong><font size="3" face="Arial, Helvetica, sans-serif">November  Seminars:</font> </strong></p>
+                        <table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="112" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="95"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="116"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center">
+                                <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Retirement Investment Strategies </font></p>
+                            </div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">November 16 </font></font></div></td>
+                            <td><p align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:00pm</font></font></p></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">                            </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Room 6332 </font></font></div></td>
+                          </tr>
+                        </table>
+                      <p>&nbsp;</p>                        
+                      <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a></font><font size="3" face="Arial,Verdana,Helvetica,sans-serif"><br>
+				        </font></p>			      <!--#elif expr="$HTTP_HOST = /ussfcu/" -->
+				        <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">				        </font><strong><font size="3" face="Arial, Helvetica, sans-serif">November Seminar:</font> </strong></p>
+				        <table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="112" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="95"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="116"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center">
+                                <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">IRA: Learn, Compare, Decide </font></p>
+                            </div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">November 10 </font></font></div></td>
+                            <td><p align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:30pm</font></font></p></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">GAO<br>
+                            </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Room # 6840B</font></font></div></td>
+                          </tr>
+                        </table>
+				        <p><strong><font size="3" face="Arial, Helvetica, sans-serif">December Seminars:</font> </strong></p>
+				        <table width="570" border="2" cellpadding="5" cellspacing="0">
+                          <tr bgcolor="#CCCCCC">
+                            <th width="112" scope="row"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Subject</font></strong></div></th>
+                            <td width="95"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Date</font></strong></div></td>
+                            <td width="116"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Time</font></strong></div></td>
+                            <td width="195"><div align="center"><strong><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Location</font></strong></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center">
+                                <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Investment Fundamentals </font></p>
+                            </div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">December 5 </font></font></div></td>
+                            <td><p align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:30pm</font></font></p></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">GAO<br>
+                            </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Room #<font size="2"> 5950A</font></font></font></div></td>
+                          </tr>
+                          <tr>
+                            <td scope="row"><div align="center">
+                                <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Tax Strategies</font></p>
+                            </div></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">December 19 </font></font></div></td>
+                            <td><p align="center"><font size="2"><font size="2" face="Arial,Verdana,Helvetica,sans-serif">12:00pm - 1:30pm</font></font></p></td>
+                            <td><div align="center"><font size="2"><font face="Arial,Verdana,Helvetica,sans-serif">GAO<br>
+                            </font><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Room #<font size="2"> 5950A</font></font></font></div></td>
+                          </tr>
+                        </table>
+				        <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">		                </font></p>
+				        <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif"><br>
+								      <a href="seminar_form.html"><img src="graphics_news/reserve_seat_button.gif" width="187" height="35" border="0"></a><br>
+							      </font></p>                <!--#else -->
+                <p><font size="2" face="Arial,Verdana,Helvetica,sans-serif">Call for <b>1-866-CU
+                SERVE</b> for a more information.</font></p>                <!--#endif -->
+                              
+							  <p><a href="about.html"><font size="1" face="Arial,Verdana,Helvetica,sans-serif">About Us</font></a><font size="1" face="Arial,Verdana,Helvetica,sans-serif"> | <a href="philosophy.html">Our Philosophy</a> | <a href="promise.html">Our Promise</a> | <a href="services.html">Services</a> | <a href="lifestages.html">Life Stages</a> | <a href="resources.html">Resources</a> | <a href="contact.html">Contact Us</a><br>
+					      (c) 2006
+					        <!--#echo var="namelegal"--> | <a href="privacy.html">Privacy Notice</a> | <a href="disclosure.html">Disclosures</a></font></p></td>
+	      </tr>
+		  <tr>
+		    <td valign="top">&nbsp;</td>
+	      </tr>
+	    </table>
+		<br>
+		</font></font></font>
+	</body>
+
+</html>

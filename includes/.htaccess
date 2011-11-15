@@ -1,0 +1,4 @@
+Options Includes
+#AddType text/server-parsed-html .shtml 
+AddHandler server-parsed html shtml
+#XBitHack full

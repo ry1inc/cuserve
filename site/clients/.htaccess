@@ -1,0 +1,8 @@
+AuthUserFile /u/web/unitru/site/clients/.htpasswd
+AuthGroupFile /dev/null
+AuthName Protected Area
+AuthType Basic
+
+<Limit GET>
+require user unitrust
+</Limit>
